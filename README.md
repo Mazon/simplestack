@@ -1,7 +1,7 @@
 https://superuser.com/questions/230694/how-can-i-push-a-git-repository-to-a-folder-over-ssh or gitea
 
 1. Develop in monorepo
-2. Push to git
+2. Push to git server ( hosted on prod server )
 3. Deploy as canary
 
 
@@ -11,7 +11,11 @@ Debian OS
 https://www.postgresql.org/download/linux/debian/
 
 HAProxy
-https://haproxy.debian.net/#distribution=Debian&release=bookworm&version=3.0
+https://haproxy.debian.net/#distribution=Debian&release=bookworm&version=3.0\
+
+Gitea
+https://about.gitea.com/
+
 
 Nginx OR HAproxy 
 Applications hosted in /opt/simplestack
