@@ -7,6 +7,11 @@ https://superuser.com/questions/230694/how-can-i-push-a-git-repository-to-a-fold
 
 
 Arch
+Debian OS
+https://www.postgresql.org/download/linux/debian/
+
+HAProxy
+https://haproxy.debian.net/#distribution=Debian&release=bookworm&version=3.0
 
 Nginx OR HAproxy 
 Applications hosted in /opt/simplestack
